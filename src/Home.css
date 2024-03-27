@@ -1,0 +1,16 @@
+.listing-heading {
+    text-align: center;
+    color: var(--secondary-color);
+    font-size: 40pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: brown;
+    background-color: lightblue;
+  }
+  .listing{
+    font-size: 20pt;
+    font-weight: bold;
+  }
+  .size{
+    font-size: 15pt;
+  }
